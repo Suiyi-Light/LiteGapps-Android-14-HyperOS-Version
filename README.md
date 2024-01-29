@@ -7,7 +7,7 @@ LiteGapps Core 安卓 14 澎湃OS 修改版
 
 # 修改内容
 本版本参考[LitegappsForMIUI14](https://github.com/67au/LitegappsForMIUI14)
-仅删除 setupwazird 与 carrier 服务相关内容
+删除 setupwazird、carrier、PixelSetupWizard、GoogleRestore 服务相关内容
 
 # Credit
 [@Litegapps](https://github.com/litegapps)
